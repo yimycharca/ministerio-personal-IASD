@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+body {
+	background: url('../img/fondod.png'); /* Fondo de la pagina */
+	font-family: 'Droid Sans', sans-serif;;
+}
+
+#logo{
+	heigth: 300px;
+}

@@ -1,0 +1,83 @@
+body {
+	background-color: silver;
+}
+
+input {
+	font-size: 20px;
+	padding: 8px 10px;
+	border-radius: 5px;
+	margin: 5px;
+	width: 377px;
+}
+
+select {
+	font-size: 15px;
+	height: 30px;
+	padding: 5px;
+	border: 1px solid #bdc7d8;
+	margin: 5px 5px 5px 5px;
+}
+
+
+
+p {
+	font-size: 25px;
+	margin: 2px 0px 2px 0px;
+	padding: 0;
+}
+
+.title {
+	font-size: 40px;
+	margin: 2px 0px 4px 0px;
+}
+
+.parraf {
+	color: blue;
+	font-size: 30px;
+}
+
+div {
+	
+}
+
+.click {
+	background-color: #5890ff;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: separate;
+	border-spacing: 15px;
+	width: 530px;
+	height: auto;
+}
+
+tr.color {
+	
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 10px;
+	font-size: 30px;
+	color: red;
+	
+}
+
+.datos {
+	color: blue;
+}
+
+caption {
+	font-size: 40px;
+		
+	margin-bottom: 10px;
+}
+
+a {
+	
+	font-size: 30px;
+	color: red;
+	margin: 20px;
+	padding: 10px;
+}

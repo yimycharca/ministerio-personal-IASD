@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+
+#muni {
+	color: #0080ff;
+}
+
+#cant {
+	color: blue;
+}
+
+#bp {
+	color: orange;
+}
+
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 20px;
+	margin: 45px;
+	width: 480px;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+#fila1 {
+	font-size: 25px;
+	font-weight: normal;
+	padding: 8px;
+	background: #5ba0d9;
+	border-top: 4px solid #0080ff;
+	border-bottom: 1px solid #fff;
+}
+
+table {
+	border: 4px solid #0080ff;
+	padding: 8px;
+	background: #b9c9fe;
+}
+
+#columna1 {
+	background: #5ba0d9;
+}
+#celda {
+	width: 40px;
+}

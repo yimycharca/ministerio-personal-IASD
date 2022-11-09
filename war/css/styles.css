@@ -1,0 +1,83 @@
+body {
+	background: url('../img/fondod.png'); /* Fondo de la pagina */
+	font-family: 'Droid Sans', sans-serif;;
+}
+
+#cuerpo {
+	font-weight:bold;
+	background-color: #3788d9;
+	padding-left:35px;
+	padding-right:35px;
+	padding-top:35px;
+	padding-bottom:50px;
+	width: 450px;
+	float: left;
+	left: 50%;
+	position: relative;
+    margin-top:30px;
+	margin-left: -260px;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+    border:1px solid #6a6a6a;
+	box-shadow: 0px 5px 10px #000000,0 0 0 10px #c0c0c0 inset;
+}
+
+#cuerporesul {
+	font-weight:bold;
+	background-color: #3788d9;
+	padding-left:35px;
+	padding-right:35px;
+	padding-top:35px;
+	padding-bottom:50px;
+	width: 950px;
+	float: left;
+	left: 50%;
+	position: relative;
+    margin-top:30px;
+	margin-left: -511px;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+    border:1px solid #6a6a6a;
+	box-shadow: 0px 5px 10px #000000,0 0 0 10px #c0c0c0 inset;
+}
+
+#reg {
+	font-size: 18px;
+	padding: 8px 10px;
+	border-radius: 5px;
+	margin: 5px;
+	width: 377px;
+}
+
+#select {
+	font-size: 18px;
+	font-size: 15px;
+	padding: 8px 10px;
+	border-radius: 6px;
+	margin: 6px;
+}
+
+#select:hover{
+	border-color: #000000;
+	border-radius:6px;
+}
+
+#boton {
+	background-color: #3db4a5;
+	font-size: 15px;
+	padding: 8px 10px;
+	border-radius: 6px;
+	margin: 6px;
+	width: 185px;
+}
+
+#boton:hover{
+	border-color: #000000;
+	border-radius:6px;
+}
+
+#tabla{
+	padding: 8px 10px;
+	border-radius: 5px;
+	margin: 5px;
+}

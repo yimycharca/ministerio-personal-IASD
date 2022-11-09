@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+body{
+	background: url(../img/felizsemana.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	opacity:0.9;
+}
+#anuncio{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin: 5px auto;
+	box-shadow: 0px 0px 3px 2px #0080ff;
+	float: center;
+}
